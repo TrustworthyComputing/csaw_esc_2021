@@ -1,4 +1,4 @@
-CSAW 2021 Embedded Security Challenge (ESC) [![License MIT][badge-license]](LICENSE)
+CSAW 2021 Embedded Security Challenge (ESC)
 ===========================================
 
 ## Overview
