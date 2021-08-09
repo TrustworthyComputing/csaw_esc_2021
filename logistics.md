@@ -10,9 +10,9 @@ Competition Deadlines
 Equipment Requirements
 ----------------------
 
-For the virtual finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions on the Chipwhisperer board. Teams are responsible for any additional equipment their techniques require.
+For the virtual finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions on the Chipwhisperer Nano board. Teams are responsible for any additional equipment their techniques require.
 
-The Chipwhisperer boards and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
+The Chipwhisperer Nano boards and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
 
 Deliverables
 ------------
