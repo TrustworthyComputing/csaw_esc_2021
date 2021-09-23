@@ -4,8 +4,8 @@ CSAW 2021 Embedded Security Challenge (ESC)
 ## Quick Links
 
 * [Registration](https://github.com/TrustworthyComputing/csaw_esc_2021#registration)
-* [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/master/logistics.md#competition-deadlines)
-* [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/master/challenge_description.md#esc-2021-challenge-description)
+* [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/logistics.md#competition-deadlines)
+* [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/challenge_description.md#esc-2021-challenge-description)
 * [csaw.io/esc](https://www.csaw.io/esc)
 
 ## Overview
