@@ -30,6 +30,12 @@ The event comprises a qualification and a final phase where teams will be able t
 
 Further details and specifics can be found on the [challenge description](challenge_description.md) page.
 
+## Acknowledgements
+We would like to thank Siemens for sponsoring the Chipwhisperer boards.
+
+[<img src="./logos/sie-logo-petrol-rgb.png" height="20%" width="20%">](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/Siemens-ack.pdf)
+
+
 ## Registration
 
 Students of all university levels are invited to compete. Each team must have a **team leader** and up to 3 additional team members (a total of 4 participants per team). Each team leader is responsible for coordinating with other members of their team and will be the point of contact for the entire team. Each team should also have a university **faculty advisor**.
