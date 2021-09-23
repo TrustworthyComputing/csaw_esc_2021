@@ -30,10 +30,10 @@ The event comprises a qualification and a final phase where teams will be able t
 
 Further details and specifics can be found on the [challenge description](challenge_description.md) page.
 
-## Acknowledgements
-We would like to thank Siemens for sponsoring the Chipwhisperer boards.
+## Acknowledgments
+The organizers would like to [thank Siemens](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/Siemens-ack.pdf) for sponsoring the ChipWhisperer hardware in this year's competition.
 
-[<img src="./logos/sie-logo-petrol-rgb.png" height="20%" width="20%">](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/Siemens-ack.pdf)
+[<img src="./logos/sie-logo-petrol-rgb.png" height="40%" width="40%">](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/Siemens-ack.pdf)
 
 
 ## Registration
