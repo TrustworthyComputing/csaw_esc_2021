@@ -3,7 +3,9 @@ CSAW 2021 Embedded Security Challenge (ESC)
 
 ## Quick Links
 
-* [Registration](https://github.com/TrustworthyComputing/csaw_esc_2021#registration)
+* [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/finalists.md)
+* [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/deliverables.md)
+* [Final Phase](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/final-phase.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/challenge_description.md#esc-2021-challenge-description)
 * [csaw.io/esc](https://www.csaw.io/esc)
@@ -59,7 +61,7 @@ To be able to qualify to the final round, each team must register for the correc
 After registration closes, making changes to the existing members of a team (e.g., replacing a team member) or adding new team members, requires explicit permission from the organizers. This is also necessary for teams replacing team members or adding new team members during the final round of the competition.
 
 
-For more registration information, policies, deadlines, deliverable details, and for information for contacting CSAW organizers, visit the [logistics](logistics.md) page.
+For more registration information, policies, deadlines, and for information for contacting CSAW organizers, visit the [logistics](logistics.md) page. For information about final phase submissions, please visit the [deliverables](deliverables.md) page.
 
 **Teams are encouraged to start investigating the challenge as early as possible.**
 
