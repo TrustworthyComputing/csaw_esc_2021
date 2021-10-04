@@ -37,8 +37,10 @@ The following teams have qualified to the final round (in random order):
 - TRX Research Labs **Sapienza University of Rome**, Pietro Borrello, Dario Petrillo, Daniele Tarantino, Noemi Palmeri, (Advisor: Leonardo Querzoni)
 - FSM **Université Grenoble Alpes**, Chukri Soueidi, Marius Monnier, (Advisor: Yliès Falcone)
 - pwnthem0le **Politecnico di Torino**, Matteo Rossi, Matteo Protopapa, Marco Sorbi, Alberto Carboneri, (Advisor: Cataldo Basile)
+
 #### Technical Track:
 
 - vubar **Vrije Universiteit Amsterdam**, Enrico Barberis, Hany Ragab, Shivam Kapoor, Utsav Dayal, (Advisor: Marius Muench)
 - TRX Technical Labs **Sapienza University of Rome**, Qian Matteo Chen, Matteo Almanza, Pasquale Caporaso, Cristian Assaiante, (Advisor: Leonardo Querzoni)
 - UBS-BZH **Université Bretagne Sud**, Robin Bastide, Bénédicte Ragon-Séjourné, Elouan Tourneur, Herinomena Andrianatrehina, (Advisor: Philippe Tanguy)
+- UCST **University of Piraeus**, Konstantinos Spyridon Mokos, Dimitrios Lazarakis, Ilias Koudounas, Paschalis Kyranoudis, (Advisor: Thanos Papadimitriou)
