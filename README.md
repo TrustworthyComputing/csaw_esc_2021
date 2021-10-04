@@ -1,6 +1,13 @@
 CSAW 2021 Embedded Security Challenge (ESC)
 ===========================================
 
+## The **first** challenge set has been released [here](challenges/set-1).
+* **Technical track** teams will have to launch attacks on the provided victim firmware.
+* **Research track** teams will have to make the victim code secure.
+
+**Note:** All victim code uses the [SimpleSerial v1.1](https://chipwhisperer.readthedocs.io/en/latest/simpleserial.html#simpleserial-v1-1) communication protocol.
+
+
 ## Quick Links
 
 * [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/finalists.md)
