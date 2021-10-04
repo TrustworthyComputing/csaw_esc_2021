@@ -22,6 +22,7 @@ The following teams have qualified to the final round (in random order):
 #### Research Track:
 
 - ZeroLeakers **IIT Madras**, Prithwish Basu Roy, Pallavi Borkar, Sandip Saha, Girinath P, (Advisor: Chester Rebeiro)
+- InfoSecIITR **IIT Roorkee**, Mohit Sharma, Meet C Shah, Nishanth R, Kartikey Kumar, (Advisor: Debiprasanna Sahoo)
 
 #### Technical Track:
 
