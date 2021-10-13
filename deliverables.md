@@ -9,6 +9,11 @@ For the qualification phase, each participating team must upload **a written rep
 ### CSAW 2021 Event Registration
 Please register [here](https://survey.zohopublic.com/zs/rszbZp) by October 21 for the CSAW 2021 live virtual event.
 
+### CSAW ESC 2021 Final Schedule
+* [US/Canada/MENA](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ9uVEpdypqH7zi5rPoqkR47NsA_7tbFsvOMckwPOibCiZAOhUUV0PlzK1Cvm78w-saB2erPRwBkbt1/pubhtml)
+* Europe TBD
+* India TBD
+
 ### Technical and Research Submissions
 For the final phase, each qualified team must upload a **final PDF report** to the [HotCRP system](https://hotcrp.engineering.nyu.edu/) by November 8, along with a TAR.GZ file that includes all associated computer files and documentation for the implemented side-channel/fault-injection attacks/mitigations.
 It is recommended that the participants also upload evidence in the form of power traces for side-channel attacks along with descriptions.
