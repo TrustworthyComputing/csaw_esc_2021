@@ -4,6 +4,11 @@ Competition Deadlines
 -   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: **1 October 2021**
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  **1 October 2021**
 -   Announcement of teams qualified to the final phase: **3 October 2021**
+-   [Finalist Registration](https://survey.zohopublic.com/zs/rszbZp) deadline: **21 October 2021**
+-   Submit team cover sheet to csaw-esc@nyu.edu: **1 November 2021**
+-   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): **8 November 2021**
+-   Pre-recorded video link shared with csaw-esc@nyu.edu: **8 November 2021**
+-   Technical poster or presentation slides: **12 November 2021**
 
 **(All deadlines are 11:59 pm eastern US timezone)**
 
