@@ -2,6 +2,7 @@ CSAW 2021 Embedded Security Challenge (ESC)
 ===========================================
 
 ## Latest Updates
+* The **third** challenge set has been released [here](challenges/set-3).
 * **Clarification:** Both research track and technical track teams should focus their mitigations/exploits solely on code segments where the trigger is high; solutions that involve launching/mitigating SCAs or voltage glitching outside of this region will not receive full credit.
 * The **second** challenge set has been released [here](challenges/set-2).
 * The **first** challenge set has been released [here](challenges/set-1).
