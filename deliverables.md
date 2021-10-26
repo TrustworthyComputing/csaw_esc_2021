@@ -11,7 +11,7 @@ Please register [here](https://survey.zohopublic.com/zs/rszbZp) by October 21 fo
 
 ### CSAW ESC 2021 Final Schedule
 * [US/Canada/MENA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQpH7LVeKLAaioHORQru7n2D5-6jNDQL8tDwJ_lwfCNy7uDHlltps0yoYAQfcRezQR0TDButWowAcJU/pubhtml?gid=0&single=true)
-* Europe TBD
+* [Europe](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2xeLDn6zjU2P6P0mXpet5H4PET8Z6h3bPczhDua43wMpO9t-Zo8JaRThKSvKQSC1CvQzuDInw9gm_/pubhtml)
 * [India](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRv2VA_Gb4w2hn3Cznk2s3pucPqtRuZMv22LMjBdP3_Txkw16t2de0XJ5N5VkFh-Sidu3R6aj8zxnvr/pubhtml)
 
 ### Technical and Research Submissions
