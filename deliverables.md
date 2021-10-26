@@ -12,7 +12,7 @@ Please register [here](https://survey.zohopublic.com/zs/rszbZp) by October 21 fo
 ### CSAW ESC 2021 Final Schedule
 * [US/Canada/MENA](https://docs.google.com/spreadsheets/d/e/2PACX-1vQpH7LVeKLAaioHORQru7n2D5-6jNDQL8tDwJ_lwfCNy7uDHlltps0yoYAQfcRezQR0TDButWowAcJU/pubhtml?gid=0&single=true)
 * Europe TBD
-* [India](https://docs.google.com/spreadsheets/d/14aoqZaOEzakTv4vr72HLcgBiRfS0YL99TT-kPlgax5w/edit#gid=0)
+* [India](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRv2VA_Gb4w2hn3Cznk2s3pucPqtRuZMv22LMjBdP3_Txkw16t2de0XJ5N5VkFh-Sidu3R6aj8zxnvr/pubhtml)
 
 ### Technical and Research Submissions
 For the final phase, each qualified team must upload a **final PDF report** to the [HotCRP system](https://hotcrp.engineering.nyu.edu/) by 8 November 2021, along with a TAR.GZ file that includes all associated computer files and documentation for the implemented side-channel/fault-injection attacks/mitigations.
