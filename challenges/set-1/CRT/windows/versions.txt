@@ -1,0 +1,2 @@
+Python 3.10.0
+PyArmor 6.6.2 Trial
