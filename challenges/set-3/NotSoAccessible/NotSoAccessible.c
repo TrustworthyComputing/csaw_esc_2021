@@ -77,7 +77,7 @@ uint8_t decrypt(uint8_t* data, uint8_t dlen) {
 uint8_t verify(uint8_t* data, uint8_t dlen) {
   uint8_t result = 1;
   uint8_t* last_rkey;
-  for (int i = 0; i < 4; i++) {
+  for (int i = 0; i < dlen; i++) {
     last_rkey[i] = (round_keys[31] >> 8*i) & 0xFF;
     result *= (last_rkey[i] == data[i]);
   }
@@ -95,7 +95,7 @@ int main(void) {
 
   simpleserial_addcmd('e', 4, encrypt);
   simpleserial_addcmd('d', 4, decrypt);
-  simpleserial_addcmd('a', 4, verify);
+  simpleserial_addcmd('a', 2, verify);
 
   while(1) simpleserial_get();
 
