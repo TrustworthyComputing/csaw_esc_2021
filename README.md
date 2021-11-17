@@ -47,6 +47,7 @@ The organizers would like to [thank Siemens](https://github.com/TrustworthyCompu
 
 [<img src="./logos/sie-logo-petrol-rgb.png" height="40%" width="40%">](https://github.com/TrustworthyComputing/csaw_esc_2021/blob/main/Siemens-ack.pdf)
 
+We would also like to thank Jhon Ingali for his assistance with challenge development.
 
 ## Registration
 
